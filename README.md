@@ -3,7 +3,9 @@
 
 [Figure] Pipline for omics data analysis
 
-[RNA-seq data analysis pipline](https://github.com/ytdai/omics-pipline/blob/master/Figures/rnaseq.jpg)
+[WES data analysis pipline](https://github.com/ytdai/omics-pipline/blob/master/Figures/wes-pipline.jpg)
+
+[RNA-seq data analysis pipline](https://github.com/ytdai/omics-pipline/blob/master/Figures/rnaseq-pipline.jpg)
 
 
 
