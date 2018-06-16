@@ -7,6 +7,8 @@
 
 [RNA-seq data analysis pipline](https://github.com/ytdai/omics-pipline/blob/master/Figures/rnaseq-pipline.jpg)
 
+[WGS data analysis pipline](https://github.com/ytdai/omics-pipline/blob/master/Figures/wgs-pipline.jpg)
+
 
 
 
