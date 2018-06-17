@@ -9,7 +9,7 @@
 
 [WGS data analysis pipline](https://github.com/ytdai/omics-pipline/blob/master/Figures/wgs-pipline.jpg)
 
-
+[scRNA(10X) analysis pipline](https://github.com/ytdai/omics-pipline/blob/master/Figures/scRNA-10X-pipline.jpg)
 
 
 
