@@ -1,15 +1,15 @@
 
-# omics-pipline
+# omics-pipeline
 
-[Figure] Pipline for omics data analysis
+[Figure] Pipeline for omics data analysis
 
-[WES data analysis pipline](https://github.com/ytdai/omics-pipline/blob/master/Figures/wes-pipline.jpg)
+[WES data analysis pipeline](https://github.com/ytdai/omics-pipline/blob/master/Figures/wes-pipline.jpg)
 
-[RNA-seq data analysis pipline](https://github.com/ytdai/omics-pipline/blob/master/Figures/rnaseq-pipline.jpg)
+[RNA-seq data analysis pipeline](https://github.com/ytdai/omics-pipline/blob/master/Figures/rnaseq-pipline.jpg)
 
-[WGS data analysis pipline](https://github.com/ytdai/omics-pipline/blob/master/Figures/wgs-pipline.jpg)
+[WGS data analysis pipeline](https://github.com/ytdai/omics-pipline/blob/master/Figures/wgs-pipline.jpg)
 
-[scRNA(10X) analysis pipline](https://github.com/ytdai/omics-pipline/blob/master/Figures/scRNA-10X-pipline.jpg)
+[scRNA(10X) analysis pipeline](https://github.com/ytdai/omics-pipline/blob/master/Figures/scRNA-10X-pipline.jpg)
 
 
 
